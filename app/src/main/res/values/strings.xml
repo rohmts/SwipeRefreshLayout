@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">SwipeRefreshLayout</string>
+    <string-array name="android_versions">
+        <item>Oreo</item>
+        <item>Nougat</item>
+        <item>Marshmallow</item>
+        <item>Lollipop</item>
+        <item>KitKat</item>
+        <item>Jelly Bean</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Honeycomb</item>
+        <item>Gingerbread</item>
+        <item>Froyo</item>
+        <item>Eclair</item>
+        <item>Donut</item>
+        <item>Cupcake</item>
+        <item>v1.1</item>
+        <item>v1.0</item>
+    </string-array>
 </resources>

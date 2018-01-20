@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Swiperefresh color -->
+    <color name="holo_blue_bright">#4637c9</color>
+    <color name="holo_green_light">#41cc3f</color>
+    <color name="holo_orange_light">#ff8000</color>
+    <color name="holo_red_light">#fa2246</color>
 </resources>
